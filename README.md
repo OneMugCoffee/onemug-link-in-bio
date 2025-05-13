@@ -1,3 +1,7 @@
+![Repo Size](https://img.shields.io/github/repo-size/OneMugCoffee/onemug-link-in-bio)
+![Last Commit](https://img.shields.io/github/last-commit/OneMugCoffee/onemug-link-in-bio)
+![License](https://img.shields.io/github/license/OneMugCoffee/onemug-link-in-bio)
+
 # OneMug Link-in-Bio Referral System
 
 ## Overview
